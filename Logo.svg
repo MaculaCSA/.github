@@ -1,34 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170.63452mm"
-   height="151.10179mm"
-   viewBox="0 0 170.63452 151.10179"
+   width="188.53688mm"
+   height="184.80641mm"
+   viewBox="0 0 188.53688 184.80641"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="Logo.svg"
    inkscape:export-filename="C:\Users\pablo\OneDrive - SM\Gala Mácula\Logos\Circular\Svg\png\360.png"
    inkscape:export-xdpi="60.515495"
-   inkscape:export-ydpi="60.515495">
+   inkscape:export-ydpi="60.515495"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient987">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.87292814"
+         id="stop983" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop985" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient987"
+       id="radialGradient989"
+       cx="85.317261"
+       cy="75.550896"
+       fx="85.317261"
+       fy="75.550896"
+       r="90.608452"
+       gradientTransform="matrix(1.0693069,0,0,1.0487216,-5.9130708,-3.6809703)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2860449"
-     inkscape:cx="316.69496"
-     inkscape:cy="290.28009"
+     inkscape:zoom="0.45468554"
+     inkscape:cx="369.48613"
+     inkscape:cy="393.67868"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -36,7 +61,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
-     inkscape:window-y="112"
+     inkscape:window-y="52"
      inkscape:window-maximized="1"
      units="mm"
      width="211mm"
@@ -44,7 +69,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showguides="false" />
+     showguides="false"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,28 +81,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Capa 3">
+     inkscape:label="Capa 3"
+     transform="translate(8.9511795,16.85231)">
     <path
-       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 51.177013,125.1956 c 0,0 24.799547,-31.276607 51.858397,-31.536608 27.05885,-0.259998 50.88062,31.481038 50.88062,31.481038 0,0 -22.14845,31.54297 -49.64356,31.657 C 76.77736,156.91105 51.177013,125.1956 51.177013,125.1956 Z"
        id="path1157-9"
        transform="translate(-18.260243,-49.612254)" />
+    <ellipse
+       style="display:inline;fill:url(#radialGradient989);fill-opacity:1;stroke:none;stroke-width:4.9;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path369"
+       cx="85.317261"
+       cy="75.550896"
+       rx="94.26844"
+       ry="92.403206" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Capa 2"
      style="display:inline"
-     transform="translate(-18.260243,-49.612254)">
+     transform="translate(-9.3090635,-32.759944)">
     <circle
-       style="fill:#00000e;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#00000e;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1169"
        cx="103.28084"
        cy="124.28925"
@@ -85,7 +120,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-18.260243,-49.612254)">
+     transform="translate(-9.3090635,-32.759944)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 155.42567,187.96365 c 0,0 -12.69299,10.44338 -18.22291,3.87666 -2.57924,-3.06282 3.26959,-17.48218 7.68728,-17.94329 2.02038,-0.21088 -1.27584,12.3842 -1.27584,12.3842 0,0 11.8006,0.33573 11.81147,1.68243 z"
