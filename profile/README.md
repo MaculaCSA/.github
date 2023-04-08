@@ -7,8 +7,8 @@
   <br>
 </h1>
 
-<h4 align="center">El programador de los premios Macula.</h4>
+<h4 align="center">Los programadores de los premios macula.</h4>
 
-En esta organización de GitHub encontraras el código de todo lo que hemos hecho en los Macula.
+En esta organización de GitHub encontraras el código de todos los programas utilizados en los Macula.
 
-Programado por [PGSCOM](https://github.com/PGSCOM)
+Programado por [PGSCOM](https://github.com/PGSCOM) (Pablo García) y [KOKOSG](https://github.com/KOKOSG7) (Aaron Sancibrián)
