@@ -11,4 +11,4 @@
 
 En esta organización de GitHub encontraras el código de todos los programas utilizados en los Macula.
 
-Por [PGSCOM](https://github.com/PGSCOM) (Pablo García) y [KOKOSG](https://github.com/KOKOSG7) (Aaron Sancibrián)
+Por [PGSCOM](https://github.com/PGSCOM) (Pablo García) y [KOKOSG](https://github.com/KOKOSG7) (Aarón Sancibrián)
