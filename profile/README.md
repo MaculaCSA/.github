@@ -18,3 +18,5 @@ Por [PGSCOM](https://github.com/PGSCOM) (Pablo García) y [KOKOSG](https://githu
 Pagina web oficial  
 # [Staff](https://github.com/maculacsa/Staff)
 Fork de [vdo.ninja](https://github.com/steveseguin/vdo.ninja)
+# [Generador de entradas](https://github.com/maculacsa/Generador-de-entradas) (Privado)
+Generador de los QR para las entradas, versión open source en el siguiente repositorio.
