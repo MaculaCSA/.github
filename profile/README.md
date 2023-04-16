@@ -24,3 +24,5 @@ Generador de los QR para las entradas, versión open source en el siguiente repo
 Fork de [Generador de QR de PGSCOM](https://github.com/PGSCOM/Generador-de-QR)
 # [QRmacula.aia](https://github.com/MaculaCSA/QRmacula.aia) (Privado)
 Aplicación de Android (App Inventor) para leer los QR de las entradas. Esta en privado porque ahí estan las claves de la base de datos.
+# [MaculaCSAGenerador](https://github.com/MaculaCSA/MaculaCSAGenerador) (Privado)
+Aplicación de Android (App Inventor) para generar los QR de las entradas. Esta en privado porque también ahí estan las claves de la base de datos.
