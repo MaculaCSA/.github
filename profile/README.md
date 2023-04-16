@@ -20,3 +20,5 @@ Pagina web oficial
 Fork de [vdo.ninja](https://github.com/steveseguin/vdo.ninja)
 # [Generador de entradas](https://github.com/maculacsa/Generador-de-entradas) (Privado)
 Generador de los QR para las entradas, versión open source en el siguiente repositorio.
+# [Generador de QR](https://github.com/MaculaCSA/Generador-de-QR)
+Fork de [Generador de QR de PGSCOM](https://github.com/PGSCOM/Generador-de-QR)
