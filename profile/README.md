@@ -21,7 +21,7 @@ Fork de [vdo.ninja](https://github.com/steveseguin/vdo.ninja)
 # [Generador de QR](https://github.com/MaculaCSA/Generador-de-QR)
 Fork de [Generador de QR de PGSCOM](https://github.com/PGSCOM/Generador-de-QR)
 # [Generador de entradas](https://github.com/maculacsa/Generador-de-entradas) (Privado)
-Generador de los QR para las entradas, versión open source en el siguiente repositorio.
+Generador de los QR para las entradas, versión open source en el anterior repositorio.
 # [QRmacula.aia](https://github.com/MaculaCSA/QRmacula.aia) (Privado)
 Aplicación de Android (App Inventor) para leer los QR de las entradas. Esta en privado porque ahí estan las claves de la base de datos.
 # [MaculaCSAGenerador](https://github.com/MaculaCSA/MaculaCSAGenerador) (Privado)
